@@ -15,12 +15,12 @@ test color`rgb(9, 105, 218)`
 > can you see it?[https://mirablues.github.io/Heqiong.github.io/mira.html]
 -test2
 > and i continue test
-.one
+1. one
 > hjjk
 > hbvjhlb
-.two
+2.two
 > 132152lm,;l
 > hghujgli
-.three
+3.three
 > 523241
 > jghjb
